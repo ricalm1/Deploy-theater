@@ -1,0 +1,25 @@
+.logo{
+    width: 10%;
+    height: 10%;
+    margin: 2% 2%;  
+}
+
+.hero-img{
+   width: 100%;
+   height: 40%;
+
+}
+
+
+.image-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+.carousel-img{
+    width: 35%;
+    margin-top: 2vh;
+    
+
+}
